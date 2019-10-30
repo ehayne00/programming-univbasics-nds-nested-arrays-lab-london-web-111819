@@ -21,7 +21,7 @@ def assembled_matrix
 end
 
 def array_literal_matrix
- new_array.sort
+ new_array = [ENNET_HOUSE.sort, ENFIELD_TENNIS_ACADEMY.sort]
 end
 
 def matrix_lookup(matrix, row, column)
