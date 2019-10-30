@@ -27,7 +27,13 @@ def array_literal_matrix
   "Pat M.",
   "Kate Gompert",
   "Bruce Green"
-], ]
+], [
+  "Hal Incandenza",
+  "Lyle",
+  "Gerhard Schtitt",
+  "Mario Incandenza",
+  "Michael Pemulis"
+]]
 end
 
 def matrix_lookup(matrix, row, column)
